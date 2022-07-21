@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\C_sharp_seminar5\task0033333\bin\Debug\net6.0\task0033333.exe
+C:\Users\Пользователь\Desktop\C_sharp_seminar5\task0033333\bin\Debug\net6.0\task0033333.deps.json
+C:\Users\Пользователь\Desktop\C_sharp_seminar5\task0033333\bin\Debug\net6.0\task0033333.runtimeconfig.json
+C:\Users\Пользователь\Desktop\C_sharp_seminar5\task0033333\bin\Debug\net6.0\task0033333.dll
+C:\Users\Пользователь\Desktop\C_sharp_seminar5\task0033333\bin\Debug\net6.0\task0033333.pdb
+C:\Users\Пользователь\Desktop\C_sharp_seminar5\task0033333\obj\Debug\net6.0\task0033333.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\C_sharp_seminar5\task0033333\obj\Debug\net6.0\task0033333.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\C_sharp_seminar5\task0033333\obj\Debug\net6.0\task0033333.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\C_sharp_seminar5\task0033333\obj\Debug\net6.0\task0033333.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\C_sharp_seminar5\task0033333\obj\Debug\net6.0\task0033333.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\C_sharp_seminar5\task0033333\obj\Debug\net6.0\task0033333.dll
+C:\Users\Пользователь\Desktop\C_sharp_seminar5\task0033333\obj\Debug\net6.0\refint\task0033333.dll
+C:\Users\Пользователь\Desktop\C_sharp_seminar5\task0033333\obj\Debug\net6.0\task0033333.pdb
+C:\Users\Пользователь\Desktop\C_sharp_seminar5\task0033333\obj\Debug\net6.0\task0033333.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\C_sharp_seminar5\task0033333\obj\Debug\net6.0\ref\task0033333.dll
